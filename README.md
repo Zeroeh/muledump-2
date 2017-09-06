@@ -7,6 +7,8 @@
 6. Type `./muledump-2` or whatever binary go built.
 7. Web server should be running, simply go to your browser `http://127.0.0.1:5353/muledump.html`
 
+BEGIN WINDOWS INSTRUCTIONS!!
+
 1. Download this repo, and extract the ZIP to your Desktop or another location. Name the folder `muledump-2-master`.
     For simplicity I'm going to assume you're going to put it in 
     C:\Users\Example\Desktop\muledump-2-master
