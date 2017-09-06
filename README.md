@@ -1,3 +1,12 @@
+###:Linux / macOS Users:
+1. cd to wherever you'd like the project.
+2. git clone https://github.com/Zeroeh/muledump-2
+3. Wait for the download to finish and cd into the directory
+4. Change the files as described in the windows section. You can rename files with `mv -n example_settings.json settings.json`
+5. If you don't have go installed, run `sudo apt-get install golang && go build`. If you already have go installed, simply run `go build`. macOS users will need to install brew to run these commands.
+6. Type `./muledump-2` or whatever binary go built.
+7. Web server should be running, simply go to your browser `http://127.0.0.1:5353/muledump.html`
+
 1. Download this repo, and extract the ZIP to your Desktop or another location. Name the folder `muledump-2-master`.
     For simplicity I'm going to assume you're going to put it in 
     C:\Users\Example\Desktop\muledump-2-master
